@@ -26,7 +26,7 @@ export const useFavoritesStore = create<FavoritesStore>()(
       isFavorite: (id) => get().favorites.includes(id),
     }),
     {
-      name: 'otakuforge-favorites',
+      name: 'zetsunami-favorites',
     }
   )
 );

@@ -59,10 +59,10 @@ export function HomePage() {
             transition={{ duration: 0.6, delay: 0.1 }}
             className="text-5xl md:text-7xl lg:text-8xl font-black leading-none tracking-tighter mb-6"
           >
-            <span className="text-white">OTAKU</span>
+            <span className="text-white">ZETSU</span>
             <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-neon-pink via-neon-purple to-neon-blue">
-              FORGE
+              NAMI
             </span>
           </motion.h1>
 

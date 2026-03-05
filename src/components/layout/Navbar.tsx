@@ -28,8 +28,8 @@ export function Navbar() {
             <Sword className="w-4 h-4 text-white" />
           </motion.div>
           <span className="font-black text-lg tracking-tight">
-            <span className="text-neon-pink">Otaku</span>
-            <span className="text-white">Forge</span>
+            <span className="text-neon-pink">Zetsu</span>
+            <span className="text-white">Nami</span>
           </span>
           <span className="hidden sm:block text-[10px] text-gray-600 font-mono border border-white/10 px-1 py-0.5 rounded">
             v1.0

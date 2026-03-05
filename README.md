@@ -1,4 +1,4 @@
-# ⚔️ OtakuForge — Anime & Manga Portfolio
+# ⚔️ ZetsuNami — Anime & Manga Portfolio
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -116,7 +116,7 @@ Each entry includes: title, Japanese title, type, genres, year, rating (1–10),
 
 ## 🤝 Credits
 
-Built by the **OtakuForge Squad** — a multi-agent engineering team:
+Built by the **ZetsuNami Squad** — a multi-agent engineering team:
 - **Team Lead** — Architecture & coordination
 - **UX/UI Designer** — Components, neon theme, animations
 - **Frontend Engineer** — Pages, routing, state hooks

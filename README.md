@@ -114,15 +114,4 @@ Each entry includes: title, Japanese title, type, genres, year, rating (1–10),
 
 ---
 
-## 🤝 Credits
-
-Built by the **ZetsuNami Squad** — a multi-agent engineering team:
-- **Team Lead** — Architecture & coordination
-- **UX/UI Designer** — Components, neon theme, animations
-- **Frontend Engineer** — Pages, routing, state hooks
-- **Data Engineer** — Content curation, types, stores
-- **QA & Optimizer** — TypeScript audit, fixes, build verification
-
----
-
 *ポートフォリオ · Portfolio Showcase · Built with React + Vite + Tailwind*
